@@ -1,6 +1,6 @@
 ### Bonjour !
 
-I'm The Prandis Guy!, Holistic Devsigner.
+I'm Isac!, Holistic Devsigner.
 
 Until then, here's my favorite (totally made up) Einstein quote:
 « Colors, shapes and words are the runes of our modern world. Arranged in certain ways, they can help our creations shine through the noise! »
@@ -17,7 +17,7 @@ Until then, here's my favorite (totally made up) Einstein quote:
 |`A`| | |`O`| | | | | | | |
 |`L`|`I`|`N`|`G`|`U`|`I`|`S`|`T`|`I`|`C`| |
 |`I`| | |`Y`| | |`E`| | | | |
-|`S`| | | | | |`M`| | |[📸](https://www.instagram.com/alexmartinfr/)| |
+|`S`| | | | | |`M`| | | 📸 | |
 |`M`| | | | | | | | | | |
 
 - 🛠 Contributing to [ Pest ](https://github.com/pestphp/pest) & [ Collision ](https://github.com/nunomaduro/collision)
